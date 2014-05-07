@@ -1,0 +1,1 @@
+"c:\program files\beyond compare 3\BComp.exe" %1 %2 %3 %4 /lefttitle=%5 /righttitle=%6 /centertitle=%7 /outputtitle=%4
